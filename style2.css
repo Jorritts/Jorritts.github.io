@@ -1,0 +1,139 @@
+body {
+    background-image: url("https://dotyumzonirqv.cloudfront.net/publish/wp-content/uploads/2021/04/Tesla-Model-3-S-and-X-1920x1080.jpg");
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+}
+
+
+#BlackLine1 {
+    background-color: #2D2633;
+    width: 100%;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+#Cube {
+    background-color: white;
+    width: 60%;
+    height: 425px;
+    margin: 1px;
+    margin-bottom: 200px;
+    position: relative;
+    top: 40px;
+    left: 20%;
+    border-radius: 100Px;
+    padding: 20px;
+    box-shadow: -10px 10px 10px #2D2633, 10px 10px 10px #2D2633;
+}
+
+#Cube2 {
+    display: inline-block;
+    width: 55%;
+    vertical-align: top;
+}
+
+#Foto {
+    border-radius: 100px;
+    margin-left: 1px;
+    width: 35%;
+}
+
+
+#Name {
+    text-align: center;
+    width: 115%;
+    display: inline-block;
+    vertical-align: top;
+    font-style:;
+    font-size: 60px;
+    margin: 10px;
+}
+
+#Elon {
+    text-align: Center;
+    width: 115%;
+    display: inline-block;
+    vertical-align: top;
+    font-style: initial;
+    font-size: 60px;
+    line-height: 0%;
+}
+
+#text {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    width: 115%;
+    font-size: 140%;
+}
+
+#Bottombox {
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+}
+
+.Boxes {
+    width: 25%;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 5%;
+    padding: 2px;
+    background-color: gray;
+    border-radius: 20px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: top;
+    3
+}
+
+#Button1 {
+    background-color: #2D2633;
+    width: 25%;
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+    margin-left: 11%;
+    color: white;
+}
+
+#Button2 {
+    background-color: #2D2633;
+    width: 25%;
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+    color: white;
+}
+
+#Button3 {
+    background-color: #2D2633;
+    width: 25%;
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+    color: white;
+}
+
+#Button1:active {
+    background-color: #000000;
+}
+
+#Button2:active {
+    background-color: #000000;
+}
+
+#Button3:active {
+    background-color: #000000;
+}
