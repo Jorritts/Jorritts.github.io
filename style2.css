@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg");
+    background-image: url("https://images.unsplash.com/photo-1676269098834-1be05c64b828?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmFja2dyb3VuZCUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D");
     background-size: 100%;
     margin: 0;
     padding: 0;
@@ -53,7 +53,7 @@ body {
 }
 
 #Jorrit {
-    text-align: Center;
+    text-align: center;
     width: 115%;
     display: inline-block;
     vertical-align: top;
